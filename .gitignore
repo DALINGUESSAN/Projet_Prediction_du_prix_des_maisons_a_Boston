@@ -1,0 +1,11 @@
+.venv/
+.qodo/
+__pycache__/
+.ipynb_checkpoints/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
